@@ -1,6 +1,6 @@
 # experimental
 
-Arc grid
+Triangle grid
 
 ![Capture d’écran 2023-09-20 174533](https://github.com/UltraFutur/experimental/assets/142181310/ed316668-b6bf-4874-9865-d92a5988f4f5)
 
